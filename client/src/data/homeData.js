@@ -10,44 +10,49 @@ import {
 export const features = [
   {
     id: 1,
-    title: "Verified Listings",
+    title: "Rent Fairness Analysis",
     description:
-      "Every property is verified before appearing on the platform.",
-    icon: ShieldCheck,
-  },
-  {
-    id: 2,
-    title: "Rent Insights",
-    description:
-      "Compare current rents with historical prices in the same locality.",
-    icon: TrendingUp,
-  },
-  {
-    id: 3,
-    title: "AI Trust Score",
-    description:
-      "Every property receives a trust score based on reviews and reports.",
-    icon: Brain,
-  },
-  {
-    id: 4,
-    title: "Verified Reviews",
-    description:
-      "Read authentic tenant experiences before making a decision.",
-    icon: MessageSquareQuote,
-  },
-  {
-    id: 5,
-    title: "Fair Pricing",
-    description:
-      "Detect overpriced listings using local market comparisons.",
+      "Instantly compare listed rent with nearby market prices to know whether you're paying a fair amount.",
     icon: BadgeDollarSign,
   },
+
+  {
+    id: 2,
+    title: "Verified Tenant Reviews",
+    description:
+      "Read authentic experiences shared by previous tenants before making your rental decision.",
+    icon: MessageSquareQuote,
+  },
+
+  {
+    id: 3,
+    title: "Locality Intelligence",
+    description:
+      "Explore nearby schools, hospitals, transport, restaurants and everyday essentials in one place.",
+    icon: MapPinned,
+  },
+
+  {
+    id: 4,
+    title: "Rent Price Trends",
+    description:
+      "Track historical rental prices to understand how rents have changed over time.",
+    icon: TrendingUp,
+  },
+
+  {
+    id: 5,
+    title: "AI Rental Insights",
+    description:
+      "Our AI summarizes reviews, pricing and locality information to help you decide faster.",
+    icon: Brain,
+  },
+
   {
     id: 6,
-    title: "Location Intelligence",
+    title: "Landlord Reputation",
     description:
-      "Explore nearby transport, hospitals, schools and essential services.",
-    icon: MapPinned,
+      "Learn how responsive and reliable landlords are through verified tenant feedback.",
+    icon: ShieldCheck,
   },
 ];
