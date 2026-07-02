@@ -13,7 +13,7 @@ const FeaturedProperties = () => {
 
             <h2 className="text-5xl font-bold">
 
-              Featured Properties
+              Properties Worth Exploring
 
             </h2>
 
